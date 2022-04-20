@@ -103,4 +103,4 @@ Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
 Aynı örnek üzerinden if koşullarından başka hangi şekilde oluşturulabilirdi farklı çözüm yolları bulunuz.
 
 # Ödev
-Girilen 3 sayıyı "küçükten büyüğe" sıralayan programı yazınız.
+Girilen 3 sayıyı "küçükten büyüğe" sıralayan programı yazınız
