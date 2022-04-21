@@ -101,3 +101,6 @@ Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner.
 Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
 
 Aynı örnek üzerinden if koşullarından başka hangi şekilde oluşturulabilirdi farklı çözüm yolları bulunuz.
+
+# Ödev
+Girilen 3 sayıyı "küçükten büyüğe" sıralayan programı yazınız
